@@ -98,7 +98,7 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
 src='https://i.imgur.com/LyHgic3i.gif'/></a>
 <p align="center">
   <a href="https://t.me/rahat_bot_community" target="_blank">
-    <img src="https://i.postimg.cc/g0BY6H8Z/𝐑𝐀𝐇𝐀𝐓-𝐈𝐒𝐋𝐀𝐌.gif" width="120" alt="Fork on GitHub" style="border-radius: 50%;">
+    <img src="https://i.imgur.com/UrcGkA9.jpeg" width="120" alt="Fork on GitHub" style="border-radius: 50%;">
  </a>
 </p>
 
