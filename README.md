@@ -25,7 +25,7 @@ Click thumbnail to watch full tutorial👆🏻
 <br />
 <p align="center">
     <a href="https://github.com/Xrahat-Dev">
-        <img src="https://i.imgur.com/SrRtp8O.jpeg" alt="Logo">
+        <img src="https://i.imgur.com/UrcGkA9.jpeg" alt="Logo">
     </a>
 </p>
 
