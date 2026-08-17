@@ -1,13 +1,13 @@
 <br />
 <p align="center">
-    <a href="https://github.com/Xrahat-Dev/Xrahat-BoT.git">
+    <a href="https://i.imgur.com/RAGeeXP.jpeg">
         <img src="https://i.imgur.com/UrcGkA9.jpeg4%B0+Rahat+BoT+%F0%9F%94%B0" alt="Logo">
     </a>
     <p align="center">
 <a href="https://t.me/education_of_purpose" target="_blank">
   <img src="" width="30">
 </a>
-<img src="https://i.imgur.com/RAGeeXP.jpeg" />
+<img src="" />
 </p>
 
 ## 📹 𝗦𝗲𝘁𝘂𝗽 𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹
@@ -15,17 +15,17 @@
 <br />
 <p align="center">
     <a href="https://tutorial-videoo.vercel.app">
-        <img src="https://i.imgur.com/SrRtp8O.jpeg" alt="Logo">
+        <img src="" alt="Logo">
     </a>
 
 Click thumbnail to watch full tutorial👆🏻
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src=''/></a>
 
 <br />
 <p align="center">
-    <a href="https://github.com/Xrahat-Dev">
-        <img src="https://i.imgur.com/UrcGkA9.jpeg" alt="Logo">
+    <a href="">
+        <img src="" alt="Logo">
     </a>
 </p>
 
@@ -36,7 +36,7 @@ Click thumbnail to watch full tutorial👆🏻
   <img src="https://img.shields.io/github/forks/Xrahat-Dev/Xrahat-BoT?style=for-the-badge" alt="Forks">
 
   <!-- ⭐ Stars -->
-  <img src="https://img.shields.io/github/stars/Xrahat-Dev/Xrahat-BoT?style=for-the-badge" alt="Stars">
+  <img src="" alt="Stars">
   <a href="https://github.com/Xrahat-Dev/Xrahat-BoT">
     <img src="https://img.shields.io/badge/ORIGINAL%20REPOSITORY-red?style=for-the-badge&logo=github&logoColor=white" alt="Original Repo">
   </a>
