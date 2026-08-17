@@ -5,9 +5,9 @@
     </a>
     <p align="center">
 <a href="https://t.me/education_of_purpose" target="_blank">
-  <img src="[https://discordhub.net/emojis/cute-dance.gif](https://i.imgur.com/UrcGkA9.jpeg)" width="30">
+  <img src="" width="30">
 </a>
-<img src="https://i.imgur.com/UrcGkA9.jpeg4%B0+Rahat+BoT+%F0%9F%94%B0" />
+<img src="https://i.imgur.com/RAGeeXP.jpeg" />
 </p>
 
 ## 📹 𝗦𝗲𝘁𝘂𝗽 𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹
