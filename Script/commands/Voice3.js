@@ -22,7 +22,7 @@ module.exports.handleEvent = async function ({
   const input = event.body.trim().toLowerCase();
 
   const voiceMap = {
-    "গান": "https://files.catbox.moe/l0jhdq.mp3",
+    "rabbi": "https://files.catbox.moe/9v2jjl.mp3",
     "ঘুমা": "https://files.catbox.moe/mofu8n.mp3",
     "ভয়েস": "https://files.catbox.moe/b973ms.mp4",
     "😸": "https://files.catbox.moe/bo0o5e.mp3",
