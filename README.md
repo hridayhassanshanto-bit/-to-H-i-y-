@@ -1,7 +1,7 @@
 <br />
 <p align="center">
     <a href="https://github.com/Xrahat-Dev/Xrahat-BoT.git">
-        <img src="https://i.postimg.cc/Vsnh7S1c/Xrahat-Dev.jpg" alt="Logo">
+        <img src="https://i.imgur.com/UrcGkA9.jpeg4%B0+Rahat+BoT+%F0%9F%94%B0" alt="Logo">
     </a>
     <p align="center">
 <a href="https://t.me/education_of_purpose" target="_blank">
