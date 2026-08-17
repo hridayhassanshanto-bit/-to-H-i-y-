@@ -5,7 +5,7 @@
     </a>
     <p align="center">
 <a href="https://t.me/education_of_purpose" target="_blank">
-  <img src="https://discordhub.net/emojis/cute-dance.gif" width="30">
+  <img src="[https://discordhub.net/emojis/cute-dance.gif](https://i.imgur.com/UrcGkA9.jpeg)" width="30">
 </a>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&pause=1000&color=87CEEB&center=true&vCenter=true&width=700&lines=%F0%9F%94%B0+Rahat+BoT+%F0%9F%94%B0" />
 </p>
@@ -15,7 +15,7 @@
 <br />
 <p align="center">
     <a href="https://tutorial-videoo.vercel.app">
-        <img src="https://i.postimg.cc/CK8Tc1JD/file-000000003a24820b970a23cf88ed719c.png" alt="Logo">
+        <img src="https://i.imgur.com/SrRtp8O.jpeg" alt="Logo">
     </a>
 
 Click thumbnail to watch full tutorial👆🏻
